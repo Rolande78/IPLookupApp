@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-23 00:56:41</sys_created_on>
+        <sys_id>c6aa35122fa80110a7645d372799b63e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_9089_iplookup_ipaddressinfo.x_9089_iplookup.ipaddressinfo_user</sys_name>
+        <sys_package display_value="IPLookup" source="x_9089_iplookup">c124f99e2f280110a7645d372799b6a7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">c124f99e2f280110a7645d372799b6a7</sys_scope>
+        <sys_security_acl display_value="x_9089_iplookup_ipaddressinfo">02aa35122fa80110a7645d372799b63a</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_c6aa35122fa80110a7645d372799b63e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-23 00:56:41</sys_updated_on>
+        <sys_user_role display_value="x_9089_iplookup.ipaddressinfo_user" name="x_9089_iplookup.ipaddressinfo_user">edaab99e2f680110a7645d372799b64e</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
